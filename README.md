@@ -1,6 +1,67 @@
-## 👋 Ciao! Benvenuto nel mio profilo GitHub 👋
+<div align="center">
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGh0bWszdmw2czA4amsxOG9wNjNsOW1jaWtkN3g0cG16cWdxZzF1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif"  />
+</div>
 
-## 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omarespo-dev)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omarespo-dev&layout=compact)
+###
+
+<div align="center">
+  <a href="www.linkedin.com/in/omar-esposito-1544a6270" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<h1 align="center">👋 Ciao! Benvenuto nel mio profilo GitHub 👋</h1>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Omarespo-dev.Omarespo-dev&right_color=red"  />
+</div>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">Sono uno Sviluppatore Web Full Stack, con una solida formazione di base alle spalle e tanta voglia di crescere. Lavoro con HTML, CSS, JavaScript, React, Node.js, Express e MySQL per realizzare siti web moderni e applicazioni dinamiche. Mi piace affrontare nuove sfide, imparare tecnologie sempre diverse e dare vita a idee creative trasformandole in codice funzionante. Attualmente sono alla ricerca di progetti stimolanti e opportunità per migliorarmi ogni giorno.</p>
+
+###
+
+<h3 align="left">🛠 Tecnologie e strumenti che uso</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50" alt="html5 logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50" alt="css3 logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="javascript logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" alt="react logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="50" alt="nodejs logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="50" alt="express logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Omarespo-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="220" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=Omarespo-dev&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
