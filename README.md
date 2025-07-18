@@ -3,7 +3,7 @@
 </div>
 
 ###
-<h3 align="left">📫 Contattami</h3>
+<h3 align="center">📫 Contattami</h3>
 
 <div align="center">
   <a href="www.linkedin.com/in/omar-esposito-1544a6270" target="_blank">
