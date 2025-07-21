@@ -73,7 +73,7 @@
 
 | 🕹 **[Versus-Hub React](https://github.com/Omarespo-dev/progetto-finale-spec-frontend-front)** | 🕹 **[TechZone - Group Project](https://github.com/Omarespo-dev/front-end-web_app)** |
 | :---: | :---: |
-| <img src="https://github.com/Omarespo-dev/progetto-finale-spec-frontend-front/raw/main/public/Demo-app.gif" width="200px"> <br> **Sito web di comparazione smartphone**, sviluppato principalmente con **React**. Permette di confrontare modelli, visualizzare schede tecniche e cercare dispositivi in modo semplice e intuitivo. | <img src="https://github.com/Omarespo-dev/front-end-web_app/raw/main/public/Demo-ecommerce.gif" width="200px"> <br> **Progetto di gruppo**: applicazione e-commerce con **frontend in React** e **backend in Node.js/Express**. Implementa carrello, filtri, ricerca prodotti e gestione utenti. |
+| <img src="https://github.com/Omarespo-dev/progetto-finale-spec-frontend-front/raw/main/public/Demo-app.gif" width="150px"> <br> **Sito web di comparazione smartphone**, sviluppato principalmente con **React**. Permette di confrontare modelli, visualizzare schede tecniche e cercare dispositivi in modo semplice e intuitivo. | <img src="https://github.com/Omarespo-dev/front-end-web_app/raw/main/public/Demo-ecommerce.gif" width="150px"> <br> **Progetto di gruppo**: applicazione e-commerce con **frontend in React** e **backend in Node.js/Express**. Implementa carrello, filtri, ricerca prodotti e gestione utenti. |
 
 
 ###
